@@ -1,0 +1,58 @@
+<! DOCTYPE html >
+< html  lang = " ru " >
+< голова >
+    < title > Галерея тундры </ title >
+    < meta  charset = " utf-8 " >
+    < link  rel = ' stylesheet ' type = ' text / css ' href = ' https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900 ' >
+    < link  rel = " stylesheet " type = " text / css " href = " style.css " >
+</ head >
+
+< тело >
+
+< header >
+    < nav  class = " wrap " > < img  src = " img / logo.png " > </ div >
+        < div  class = " text wrap " >
+            < Сильный > < HREF = " # " > Главная </ > </ сильный > 
+            < HREF = " # " > Каталог </ > 
+            < HREF = " # " > Контакты </ > 
+        </ div >
+    </ nav >
+    < h1  class = " page-title " > ГАЛЕРЕЯ ТУНДРА </ h1 >
+</ header >
+
+< p  align = " center " class = " page-description " > Галерея тундр представляет собой коллекцию фотографий из трех различных областей: арктической тундры, альпийской тундры и антарктической тундры. В тундре растительность состоит из карликовых кустарников, осок и трав, мхов и лишайников, что создает разнообразную экологию и потрясающие фотографии. </ p >
+
+< div  class = " gallery " >
+    < figure  class = " gallery-item " >
+        < img  class = " thumbnail " src = " img / moss1.jpg " >
+    </ figure >
+    < figure  class = " gallery-item " >
+        < img  class = " thumbnail " src = " img / moss2.jpg " >
+    </ figure >
+    < figure  class = " gallery-item " >
+        < img  class = " thumbnail " src = " img / moss3.jpg " >
+    </ figure >
+    < figure  class = " gallery-item " >
+        < img  class = " thumbnail " src = " img / moss4.jpg " >
+    </ figure >
+    < figure  class = " gallery-item " >
+        < img  class = " thumbnail " src = " img / moss5.jpg " >
+    </ figure >
+    < figure  class = " gallery-item " >
+        < img  class = " thumbnail " src = " img / moss6.jpg " >
+    </ figure >
+</ div >
+
+< nav >
+    < ul >
+        < Литий > < HREF = " # " > < б > Artic </ б > </ в > </ литий > 
+        < Литий > < HREF = " # " > Alpine </ > </ литий > 
+        < Литий > < HREF = " # " > Антарктическая </ > </ литий > 
+    </ ul >
+    < DIV  класс = " контакт-BTN " > < > Контакт </ >
+    </ div >
+</ nav >
+
+</ body >
+
+</ html >
